@@ -1,0 +1,2 @@
+# manifest
+The starting point
